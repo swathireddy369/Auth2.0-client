@@ -1,0 +1,15 @@
+.input{
+    margin-top:1rem;
+
+}
+.button{
+    margin-top: 1rem;
+    width:200;
+    height: 100;
+}
+.body{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
